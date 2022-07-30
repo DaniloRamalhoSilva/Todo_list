@@ -38,7 +38,7 @@
 
 :bulb: **Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto**
 
-  ![exemplo de uma todo list](./todo-list-example.gif)
+  ![exemplo de uma todo list](https://github.com/tryber/sd-023-a-project-todo-list/blob/main/todo-list-example.gif?raw=true)
 
 :rocket: Lembre-se que você pode ir além e deixar o projeto com a sua cara e impressionar todas as pessoas! :rocket:
 </details>
