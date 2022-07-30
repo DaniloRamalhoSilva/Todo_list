@@ -10,6 +10,18 @@
 </details>
 
 <details>
+  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
+
+  Você desenvolverá uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
+
+:bulb: **Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto**
+
+  ![exemplo de uma todo list](https://github.com/tryber/sd-023-a-project-todo-list/blob/main/todo-list-example.gif?raw=true)
+
+:rocket: Lembre-se que você pode ir além e deixar o projeto com a sua cara e impressionar todas as pessoas! :rocket:
+</details>
+
+<details>
 <summary><strong>:gear: Requisitos obrigatorios:</strong></summary>
 :white_check_mark: 1 - Adicione à sua lista o título "Minha Lista de Tarefas" em uma tag '<header>' <br>
 :white_check_mark: 2 - Adicione abaixo do título um parágrafo com o texto "Clique duas vezes em um item para marcá-lo como completo"<br>
@@ -31,14 +43,3 @@
 :white_check_mark: 14 - Adicione um botão que, quando clicado, remove o item selecionado<br>
 </details>
 
-<details>
-  <summary><strong>👨‍💻 O que deverá ser desenvolvido</strong></summary><br />
-
-  Você desenvolverá uma lista de tarefas usando `HTML`, `CSS` e `JavaScript`.
-
-:bulb: **Veja o exemplo a seguir de como o projeto pode se parecer depois de pronto**
-
-  ![exemplo de uma todo list](https://github.com/tryber/sd-023-a-project-todo-list/blob/main/todo-list-example.gif?raw=true)
-
-:rocket: Lembre-se que você pode ir além e deixar o projeto com a sua cara e impressionar todas as pessoas! :rocket:
-</details>
